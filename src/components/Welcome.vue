@@ -1,6 +1,6 @@
 <template>
-  <div class="app">
-    <router-view></router-view>
+  <div class="">
+    欢迎进入
   </div>
 </template>
 
@@ -19,5 +19,4 @@ export default {
 }
 </script>
 <style scoped>
-@import 'assets/css/base.css';
 </style>
